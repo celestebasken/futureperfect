@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://celestebasken.github.io/futureperfect/"
 languageCode = "en-us"
 title = "Celeste's R Blog"
 theme = "hugo-future-imperfect"
