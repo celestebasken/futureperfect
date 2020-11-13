@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Celeste&#39;s R Blog</title>
+    <link>/tags/tutorial/</link>
+    <description>Recent content in tutorial on Celeste&#39;s R Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing graphs and things</title>
+      <link>/blog/fixing_graphs_and_things/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/fixing_graphs_and_things/</guid>
+      <description>It&amp;rsquo;s been a little while since I blogged and I created some graphs! Today I&amp;rsquo;m just cleaning them up and fixing issues, like bunched-up letters or skinny lines.
+I learned more about R bar graphs, which was nice because I&amp;rsquo;ve been using them without really understanding what they do. I still don&amp;rsquo;t fully understand each piece, but I figured out enough to insert the line
+width=&amp;quot;1&amp;quot; into my ggplot2 graph. I tried changing the theme, but that didn&amp;rsquo;t work and said it couldn&amp;rsquo;t find the function.</description>
+    </item>
+    
+    <item>
+      <title>Very first intro to R</title>
+      <link>/blog/very_first_intro_into_r/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/very_first_intro_into_r/</guid>
+      <description>knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE) Introduction to R I began learning R using the SWIRL package over the summer. Now I want to try more data work for the Nature Conservancy and the Conservation Data Lab.
+Testing out my own dataframe I wanted to make a data set to mess around with, so I made up some data about my friends&#39; family since they have a lot of kids and a lot of dogs.</description>
+    </item>
+    
+  </channel>
+</rss>

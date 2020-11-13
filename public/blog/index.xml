@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Celeste&#39;s R Blog</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Celeste&#39;s R Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First R Post on the Cleaned Blog!</title>
+      <link>/blog/first_r_post_on_cleaned_blog/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/first_r_post_on_cleaned_blog/</guid>
+      <description>Welcome welcome! I actually made a blog with a pretty theme! Thanks to J Pescador, who created this theme. This is actually my third try, since the first blog was forked from Crump Lab, the second was a different version of future imperfect and this is the third (and hopefully final) try! I created this during a conservation data lab (CDL) meeting.
+Trying out pictures Earth Data Science gave me very helpful information on how to put in a picture.</description>
+    </item>
+    
+    <item>
+      <title>Fixing graphs and things</title>
+      <link>/blog/fixing_graphs_and_things/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/fixing_graphs_and_things/</guid>
+      <description>It&amp;rsquo;s been a little while since I blogged and I created some graphs! Today I&amp;rsquo;m just cleaning them up and fixing issues, like bunched-up letters or skinny lines.
+I learned more about R bar graphs, which was nice because I&amp;rsquo;ve been using them without really understanding what they do. I still don&amp;rsquo;t fully understand each piece, but I figured out enough to insert the line
+width=&amp;quot;1&amp;quot; into my ggplot2 graph. I tried changing the theme, but that didn&amp;rsquo;t work and said it couldn&amp;rsquo;t find the function.</description>
+    </item>
+    
+    <item>
+      <title>Thinking about NE Fire Disturbance</title>
+      <link>/blog/thinking_about_ne_fire_disturbance/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/thinking_about_ne_fire_disturbance/</guid>
+      <description>Things that might be interesting to cover
+On the MSU Natural Features website, I was reading about the different types of forests and their disturbance patterns, and one thing that stuck out to me is that while temperature/ water access and other climate features impact the type of forest and therefore the fire prevalence, the fire prevalence also impacts the type of forest. For example, in the Dry-Mesic Southern forests, &amp;ldquo;historically, frequent, low-intensity surface fires generated conditions suitable for sustaining advanced oak regeneration and helped keep oak pathogens and invertebrate acorn predators at low levels.</description>
+    </item>
+    
+    <item>
+      <title>Working Through the Basics</title>
+      <link>/blog/working_through_the_basics/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/working_through_the_basics/</guid>
+      <description>Back into R! I&amp;rsquo;ve been pretty busy but I&amp;rsquo;m going to work on figuring this all out. Randy shared a cleaned up version of the LANDFIRE Repository and very kindly explained what all of the labels mean. It looks like a really cool dataset! I can&amp;rsquo;t wait to get into it.
+I&amp;rsquo;m still trying to set this blog up and figure out how to do more practical things in R. I copied a line from Randy&amp;rsquo;s code and made this &amp;lsquo;journal&amp;rsquo; theme.</description>
+    </item>
+    
+    <item>
+      <title>Very first intro to R</title>
+      <link>/blog/very_first_intro_into_r/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/very_first_intro_into_r/</guid>
+      <description>knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE) Introduction to R I began learning R using the SWIRL package over the summer. Now I want to try more data work for the Nature Conservancy and the Conservation Data Lab.
+Testing out my own dataframe I wanted to make a data set to mess around with, so I made up some data about my friends&#39; family since they have a lot of kids and a lot of dogs.</description>
+    </item>
+    
+  </channel>
+</rss>

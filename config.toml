@@ -4,6 +4,7 @@ title = "Celeste's R Blog"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 disqusShortname = "shortname"
 googleAnalytics = ""
 pluralizeListTitles = false

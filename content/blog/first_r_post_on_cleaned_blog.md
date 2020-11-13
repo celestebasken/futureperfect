@@ -14,7 +14,7 @@ type: post
 
 ## Welcome welcome!
 
-I actually made a blog with a pretty theme! Thanks to [J Pescador](https://github.com/jpescador/hugo-future-imperfect), who created this theme. I created this during a [conservation data lab](https://rswaty.github.io/TheCDL/) (CDL) meeting.
+I actually made a blog with a pretty theme! Thanks to [J Pescador](https://github.com/jpescador/hugo-future-imperfect), who created this theme. This is actually my third try, since the first blog was forked from Crump Lab, the second was a different version of future imperfect and this is the third (and hopefully final) try! I created this during a [conservation data lab](https://rswaty.github.io/TheCDL/) (CDL) meeting.
 
 ## Trying out pictures
 
