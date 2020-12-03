@@ -1,4 +1,4 @@
-baseurl = "https://celestebasken.github.io/futureperfect/"
+baseurl = "https://celestesrblog.netlify.app/"
 languageCode = "en-us"
 title = "Celeste's R Blog"
 theme = "hugo-future-imperfect"
@@ -18,7 +18,7 @@ canonifyURLs = true
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Celeste's R Blog"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
+  viewMorePostLink     = "https://celestebasken.github.io/futureperfect/blog/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website

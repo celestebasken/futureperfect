@@ -1,17 +1,17 @@
 ---
-author: George Jetson
+author: Celeste Basken
 categories:
 - ""
-date: "2017-06-22"
-description: Application for doing cool things.
+date: "2020-11-17"
+description: Project.
 featured: ""
 featuredalt: ""
 featuredpath: ""
-format: Android
+format: Golang
 link: '#'
 linktitle: ""
-title: Fancy App 3
+title: Project
 type: itemized
 ---
 
-## App 3
+## Project

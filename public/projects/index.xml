@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Celeste&#39;s R Blog</title>
-    <link>/projects/</link>
+    <link>https://celestesrblog.netlify.app/projects/</link>
     <description>Recent content in Projects on Celeste&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>https://celestesrblog.netlify.app/projects/item2/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/projects/item2/</guid>
+      <description>Project </description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://celestesrblog.netlify.app/projects/item3/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/projects/item3/</guid>
+      <description>Project </description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://celestesrblog.netlify.app/projects/item4/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/projects/item4/</guid>
+      <description>Project </description>
+    </item>
+    
     <item>
       <title>Work for the Conservation Data Lab</title>
-      <link>/projects/item1/</link>
+      <link>https://celestesrblog.netlify.app/projects/item1/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/item1/</guid>
+      <guid>https://celestesrblog.netlify.app/projects/item1/</guid>
       <description>Conservation Data Lab </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 2</title>
-      <link>/projects/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/item2/</guid>
-      <description>App 2 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 3</title>
-      <link>/projects/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/item3/</guid>
-      <description>App 3 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 4</title>
-      <link>/projects/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/item4/</guid>
-      <description>App 4 </description>
     </item>
     
   </channel>

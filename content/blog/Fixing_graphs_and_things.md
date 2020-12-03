@@ -4,7 +4,7 @@ categories:
 - Hugo
 date: "2020-11-06"
 description: Blog entry pulled from old R markdown blog
-featured: pic03.jpg
+featured: /img/2020/11.06/graph.png
 featuredalt: Pic 3
 featuredpath: date
 linktitle: ""

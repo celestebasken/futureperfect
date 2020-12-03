@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Celeste&#39;s R Blog</title>
-    <link>/about/</link>
+    <link>https://celestesrblog.netlify.app/about/</link>
     <description>Recent content in About Me on Celeste&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
