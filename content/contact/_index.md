@@ -2,7 +2,7 @@
 contactemail: Your Email Address
 contactmessage: Your Message
 contactname: Your Name
-emailservice: formspree.io/celeste@basken.com
+emailservice: formspree.io/f/xvovbjpd
 netlify: false
 title: Contact
 type: contact

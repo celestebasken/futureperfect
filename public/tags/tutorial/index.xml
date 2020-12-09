@@ -14,7 +14,8 @@
       
       <guid>https://celestesrblog.netlify.app/blog/parallax_testing/</guid>
       <description>I&amp;rsquo;m on my third try to make a parallax scroll document for national fire disturbance data. I had some file management issues with the first two but I think I&amp;rsquo;ve figured out generally how it works.
-I&amp;rsquo;m following Martin Chan&amp;rsquo;s tutorial and he uses the package parallaxr.</description>
+I&amp;rsquo;m following Martin Chan&amp;rsquo;s tutorial and he uses the package parallaxr.
+The parallax actually seems pretty simple with the package, but I have to make charts and maps in their own HTMLs, which may take a little bit more manuvering.</description>
     </item>
     
     <item>

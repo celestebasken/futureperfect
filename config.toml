@@ -18,7 +18,7 @@ canonifyURLs = true
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Celeste's R Blog"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "https://celestebasken.github.io/futureperfect/blog/"
+  viewMorePostLink     = "https://celestesrblog.netlify.app/blog/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
