@@ -6,7 +6,17 @@
     <description>Recent content in Hugo on Celeste&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hexbin Maps and Choropleths</title>
+      <link>https://celestesrblog.netlify.app/blog/hexbin_maps_and_choropleths/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/blog/hexbin_maps_and_choropleths/</guid>
+      <description>I haven&amp;rsquo;t blogged in a little while, but I&amp;rsquo;ve been working on choropleths! I hit a wall with some Mac-update related issues but luckily Randy was able to help me out and I seem to be past those.
+Today I made my very first (successful) choropleth, which was a hexbin map of the continental United States, using data from the LANDFIRE Team of historical fire prevalence state-by-state and the overall acres burned.</description>
+    </item>
+    
     <item>
       <title>Creating a Parallax Scroll Document</title>
       <link>https://celestesrblog.netlify.app/blog/parallax_testing/</link>
