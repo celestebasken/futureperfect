@@ -6,7 +6,30 @@
     <description>Recent content in Hugo on Celeste&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updates and New Maps</title>
+      <link>https://celestesrblog.netlify.app/blog/updates_and_the_new_year/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/blog/updates_and_the_new_year/</guid>
+      <description>First post of 2021! Today I wanted to share some updates on old maps, talk about my projects and goals in the spirit of the New Year, and show what I&amp;rsquo;ve been working on.
+After I sent Randy my map from Hexbin Maps and Choropleths, he fixed it up a bit and here is the final version.
+Definitely looks a lot better, and I hope to keep improving.
+As for the my leaRning goals (stole that from Randy) for this year, here&amp;rsquo;s a snippet of what I was thinking:</description>
+    </item>
+    
+    <item>
+      <title>Notes to Self</title>
+      <link>https://celestesrblog.netlify.app/blog/notes_to_self/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/blog/notes_to_self/</guid>
+      <description>Here are a couple things to check for if/ when I&amp;rsquo;m having R trouble. This is certainly not an exhaustive list and it only includes issues I&amp;rsquo;ve seen before, but I hope this will be a productive way to keep track of things I run into time and time again.
+When referencing files doesn&amp;rsquo;t work
+ Set the working directory to the main folder and try again.  setwd()  Check spelling!</description>
+    </item>
+    
     <item>
       <title>Hexbin Maps and Choropleths</title>
       <link>https://celestesrblog.netlify.app/blog/hexbin_maps_and_choropleths/</link>
