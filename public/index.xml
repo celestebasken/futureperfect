@@ -6,7 +6,16 @@
     <description>Recent content on Celeste&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parallax Reflection</title>
+      <link>https://celestesrblog.netlify.app/blog/parallax_reflection/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/blog/parallax_reflection/</guid>
+      <description>knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE) An overview of my parallax experience I&amp;rsquo;ve spent the past month or so working with LANDFIRE&amp;rsquo;s national data of area burned in the continental US prior to European colonization. It&amp;rsquo;s a fascinating dataset and I&amp;rsquo;ve learned a lot about different chart types, how to make maps, and other valuable skills. My goal from the beginning was to format the charts and text into a parallax, which is a neat style of scrolling document that I&amp;rsquo;ve discussed on this blog before.</description>
+    </item>
+    
     <item>
       <title>Updates and New Maps</title>
       <link>https://celestesrblog.netlify.app/blog/updates_and_the_new_year/</link>
