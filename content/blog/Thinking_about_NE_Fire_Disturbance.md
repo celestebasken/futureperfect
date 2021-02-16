@@ -1,7 +1,5 @@
 ---
 author: Celeste
-categories:
-- Hugo
 date: "2020-10-31"
 description: Blog entry pulled from old R markdown blog
 featured: ""

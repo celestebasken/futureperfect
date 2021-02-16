@@ -1,15 +1,11 @@
 ---
 author: Celeste
-categories:
-- Hugo
 date: "2020-12-12"
 description: Fun, new graphics
 featured: pic03.jpg
 featuredalt: Pic 3
 featuredpath: date
 linktitle: ""
-tags:
-- tutorial
 title: Hexbin Maps and Choropleths
 type: post
 ---

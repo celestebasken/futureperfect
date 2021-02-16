@@ -1,15 +1,11 @@
 ---
 author: Celeste
-categories:
-- Hugo
 date: "2020-11-06"
 description: Blog entry pulled from old R markdown blog
 featured: /img/2020/11.06/graph.png
 featuredalt: Pic 3
 featuredpath: date
 linktitle: ""
-tags:
-- tutorial
 title: Fixing graphs and things
 type: post
 ---

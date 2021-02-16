@@ -1,15 +1,11 @@
 ---
 author: Celeste
-categories:
-- Parallax
 date: "2021-02-14"
 description: Notes from my experience with Parallax
 featured: pic03.jpg
 featuredalt: Pic 3
 featuredpath: date
 linktitle: ""
-tags:
-- tutorial
 title: Parallax Reflection
 type: post
 ---

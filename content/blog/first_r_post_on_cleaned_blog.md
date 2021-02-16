@@ -1,7 +1,5 @@
 ---
 author: Celeste
-categories:
-- Hugo
 date: "2020-11-10"
 description: ""
 featured: pic01.jpg

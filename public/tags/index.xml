@@ -5,16 +5,6 @@
     <link>https://celestesrblog.netlify.app/tags/</link>
     <description>Recent content in Tags on Celeste&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tutorial</title>
-      <link>https://celestesrblog.netlify.app/tags/tutorial/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://celestesrblog.netlify.app/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://celestesrblog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

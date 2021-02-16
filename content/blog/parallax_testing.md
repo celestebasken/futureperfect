@@ -1,15 +1,11 @@
 ---
 author: Celeste
-categories:
-- Hugo
 date: "2020-11-17"
 description: A new type of html file!
 featured: pic03.jpg
 featuredalt: Pic 3
 featuredpath: date
 linktitle: ""
-tags:
-- tutorial
 title: Creating a Parallax Scroll Document
 type: post
 ---

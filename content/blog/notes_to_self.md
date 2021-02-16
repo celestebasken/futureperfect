@@ -1,15 +1,11 @@
 ---
 author: Celeste
-categories:
-- Hugo
 date: "2020-12-31"
 description: A self-cheatsheet for when I get stuck
 featured: pic03.jpg
 featuredalt: Pic 3
 featuredpath: date
 linktitle: ""
-tags:
-- tutorial
 title: Notes to Self
 type: post
 ---

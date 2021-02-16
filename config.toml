@@ -32,7 +32,7 @@ canonifyURLs = true
   # Sets Categories to sort by number of posts instead of alphabetical
   categoriesByCount    = true
   # set to show or to hide categories in the sidebar
-  showSidebarCategories = true
+  showSidebarCategories = false
   # Sets Estimated Reading Time to appear in post headers
   includeReadingTime   = true
   # Sets the Favicon and Version for the site. Default support is for
@@ -92,7 +92,7 @@ canonifyURLs = true
 
   paragraph = "My experience learning R for data science."
 
-  about     = "I'm Celeste, a high school student trying to learn R to future perfection."
+  about     = "I’m Celeste, a high school student from just outside the nation’s capital who’s learning R with thanks to Randy Swaty and the Conservation Data Lab team."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.

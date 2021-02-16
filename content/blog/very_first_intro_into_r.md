@@ -1,15 +1,11 @@
 ---
 author: Celeste
-categories:
-- Hugo
 date: "2020-07-28"
 description: Blog entry pulled from old R markdown blog
 featured: pic03.jpg
 featuredalt: Pic 3
 featuredpath: date
 linktitle: ""
-tags:
-- tutorial
 title: Very first intro to R
 type: post
 ---
