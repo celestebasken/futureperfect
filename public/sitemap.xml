@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://celestesrblog.netlify.app/categories/hugo/</loc>
+    <loc>https://celestesrblog.netlify.app/categories/parallax/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,6 +35,11 @@
   <url>
     <loc>https://celestesrblog.netlify.app/tags/tutorial/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://celestesrblog.netlify.app/categories/hugo/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>

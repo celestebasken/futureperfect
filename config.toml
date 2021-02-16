@@ -5,7 +5,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
-disqusShortname = "shortname"
+disqusShortname = "celestesrblog"
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -42,7 +42,7 @@ canonifyURLs = true
   loadFavicon          = false
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
-  socialShare          = true
+  socialShare          = false
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
   socialShareGoogleplus = true
@@ -90,7 +90,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Celeste's R Blog"
 
-  paragraph = "It's all in pursuit of future perfect"
+  paragraph = "My experience learning R for data science."
 
   about     = "I'm Celeste, a high school student trying to learn R to future perfection."
 
@@ -129,23 +129,23 @@ canonifyURLs = true
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  identifier = "fa fa-list"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "/projects/"
+#  identifier = "fa fa-list"
+#  weight = 4
 
-[[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  identifier = "fa fa-sitemap"
-  weight = 5
+#[[menu.main]]
+#  name = "Categories"
+#  url = "/categories/"
+#  identifier = "fa fa-sitemap"
+#  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fa fa-envelope-o"
-  weight = 6
+#[[menu.main]]
+#  name = "Contact"
+#  url = "/contact/"
+#  identifier = "fa fa-envelope-o"
+#  weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop

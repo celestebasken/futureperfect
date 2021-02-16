@@ -1,7 +1,7 @@
 ---
 author: Celeste
 categories:
-- Hugo
+- Parallax
 date: "2021-02-14"
 description: Notes from my experience with Parallax
 featured: pic03.jpg
@@ -13,11 +13,6 @@ tags:
 title: Parallax Reflection
 type: post
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
-
 
 # An overview of my parallax experience
 
