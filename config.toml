@@ -40,7 +40,7 @@ canonifyURLs = true
   # These are stored in the favicon folder. See the following for more information:
   # https://github.com/audreyr/favicon-cheat-sheet
   loadFavicon          = true
-  faviconVersion       = "/img/main/macho.jpg"
+  faviconVersion       = "/static/favicon.ico"
   # Sets Social Share links to appear on posts
   socialShare          = false
   # Sets specific share to appear on posts (default behavior is to appear)
