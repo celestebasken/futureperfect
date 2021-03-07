@@ -6,7 +6,17 @@
     <description>Recent content in Blog on Celeste&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://celestesrblog.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a new website!</title>
+      <link>https://celestesrblog.netlify.app/blog/2021-03-07-building-a-new-website/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://celestesrblog.netlify.app/blog/2021-03-07-building-a-new-website/</guid>
+      <description>New website! I&amp;rsquo;m making a new website! Don&amp;rsquo;t worry, it&amp;rsquo;s not a new R blog- I just made this one and I&amp;rsquo;m still quite happy with it. I&amp;rsquo;m making a portfolio because, as a high school junior, I&amp;rsquo;m starting the college application process and I want a place to showcase my work that is prettier than LinkedIn.
+After making probably 5 repositories from different Hugo Blogdown themes (I basically have all of their themes memorized at this point), I finally commited to a relatively simple one called Airspace (thanks to Theme Fisher on Github!</description>
+    </item>
+    
     <item>
       <title>Parallax Reflection</title>
       <link>https://celestesrblog.netlify.app/blog/parallax_reflection/</link>
