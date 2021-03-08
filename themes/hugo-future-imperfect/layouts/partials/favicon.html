@@ -7,8 +7,8 @@
   {{ end }}
 
   {{ $favVer := $.Scratch.Get "favVer" }}
-
   <link rel="apple-touch-icon-precomposed" href='{{ "/static/favicon.ico" | relURL }}{{ $favVer }}.png'>
+  <link rel="icon" href="{{ "/img/favicon.ico" | absURL }}" type="image/x-icon">
   <link rel="icon" href='{{ "/static/favicon.ico" | relURL }}{{ $favVer }}.png'>
   <!--[if IE]><link rel="shortcut icon" href='/favicon{{ $favVer }}.ico'><![endif]-->
   <meta name="msapplication-TileColor" content="#da532c">
