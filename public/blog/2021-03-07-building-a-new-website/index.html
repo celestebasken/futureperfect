@@ -24,7 +24,7 @@
         "datePublished": "2021-03-07 00:00:00 \u002b0000 UTC",
         "dateModified" : "2021-03-07 00:00:00 \u002b0000 UTC",
         "url" : "https:\/\/celestesrblog.netlify.app\/blog\/2021-03-07-building-a-new-website\/",
-        "wordCount" : "525",
+        "wordCount" : "902",
         "keywords" : [ "Blog" ]
     }
     </script>
@@ -87,7 +87,7 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
 <meta itemprop="description" content="New website! I&rsquo;m making a new website! Don&rsquo;t worry, it&rsquo;s not a new R blog- I just made this one and I&rsquo;m still quite happy with it. I&rsquo;m making a portfolio because, as a high school junior, I&rsquo;m starting the college application process and I want a place to showcase my work that is prettier than LinkedIn.
 After making probably 5 repositories from different Hugo Blogdown themes (I basically have all of their themes memorized at this point), I finally commited to a relatively simple one called Airspace (thanks to Theme Fisher on Github!"><meta itemprop="datePublished" content="2021-03-07T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2021-03-07T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="525">
+<meta itemprop="wordCount" content="902">
 <meta itemprop="keywords" content="" />
         
 
@@ -266,9 +266,6 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
 
 
   
-  
-    
-  
 
 
         
@@ -276,7 +273,7 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
         
 
         <a href="https://celestesrblog.netlify.app/blog/parallax_reflection/" class="image featured">
-            <img src="https://celestesrblog.netlify.app/img/2021/02/pic03.jpg" alt="">
+            <img src="https://celestesrblog.netlify.app/date2021/02/pic03.jpg" alt="">
         </a>
     
 
@@ -305,9 +302,6 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
 
 
   
-  
-    
-  
 
 
         
@@ -315,7 +309,7 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
         
 
         <a href="https://celestesrblog.netlify.app/blog/updates_and_the_new_year/" class="image featured">
-            <img src="https://celestesrblog.netlify.app/img/2021/01/pic03.jpg" alt="">
+            <img src="https://celestesrblog.netlify.app/date2021/01/pic03.jpg" alt="">
         </a>
     
 
@@ -354,7 +348,7 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
         
 
         <a href="https://celestesrblog.netlify.app/blog/notes_to_self/" class="image featured">
-            <img src="https://celestesrblog.netlify.app/img/2020/12/pic03.jpg" alt="">
+            <img src="https://celestesrblog.netlify.app/date2020/122020/12/pic03.jpg" alt="">
         </a>
     
 
@@ -529,7 +523,7 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
             March 7, 2021</time>
         <span class="author">Celeste Basken</span>
         
-            <p>3 minute read</p>
+            <p>5 minute read</p>
         
         
     </div>
@@ -548,39 +542,43 @@ After making probably 5 repositories from different Hugo Blogdown themes (I basi
 <p>I want to try and document some of the notable challenges I encountered in the first 48 hours of my young website (it&rsquo;s still quite young!), but unfortunately I was so enthralled in customizing everything that I definitely did not blog along. I&rsquo;m trying to recreate some of it here.</p>
 <p>UNRELATED BUT IMPORTANT: I don&rsquo;t know where to put this, but it&rsquo;s important so I&rsquo;ll throw it in here: before building the site, I added the following line at the bottom of the default configurations in config.toml.</p>
 <pre><code>ignoreFiles = [&quot;\\.Rmd$&quot;, &quot;\\.Rmarkdown$&quot;, &quot;_cache$&quot;, &quot;\\.knit\\.md$&quot;, &quot;\\.utf8\\.md$&quot;]
-```
-
-# First challenge: how to build the site??
-I think this varies slightly based on the Hugo site, but I was caught very unawares because I couldn't figure out how to build my dang site! (Elementary, I know.) 
-
-I'm spoiled because this blog, and the accompanying theme Future Imperfect, has an integrated 'build' button right in R-studio. For whatever reason, the Airspace theme did not have such a button, and I found myself stuck before I had truly begun. I realized that all the 'build' button does is run the line blogdown::build_site() so that was quite a relief. Issue #1: Solved!
-
-# How to change the page names?
-I also encountered trouble changing the names of the main pages on my site (such as &quot;films,&quot; &quot;extracurriculars,&quot; etc). I figured out that in config.toml the name parameter is what appears on the site. Good to know.
-
-The 'parent' field refers to the fact that this particular page is nested under the 'parent' Extracurriculars. That means that in the heading on my site, if you click the drop down on parent, then you see Model United Nations. 
-
-```
-[[Languages.en.menu.main]]
+</code></pre><h1 id="first-challenge-how-to-build-the-site">First challenge: how to build the site??</h1>
+<p>I think this varies slightly based on the Hugo site, but I was caught very unawares because I couldn&rsquo;t figure out how to build my dang site! (Elementary, I know.)</p>
+<p>I&rsquo;m spoiled because this blog, and the accompanying theme Future Imperfect, has an integrated &lsquo;build&rsquo; button right in R-studio. For whatever reason, the Airspace theme did not have such a button, and I found myself stuck before I had truly begun. I realized that all the &lsquo;build&rsquo; button does is run the line blogdown::build_site() so that was quite a relief. Issue #1: Solved!</p>
+<h1 id="how-to-change-the-page-names">How to change the page names?</h1>
+<p>I also encountered trouble changing the names of the main pages on my site (such as &ldquo;films,&rdquo; &ldquo;extracurriculars,&rdquo; etc). I figured out that in config.toml the name parameter is what appears on the site. Good to know.</p>
+<p>The &lsquo;parent&rsquo; field refers to the fact that this particular page is nested under the &lsquo;parent&rsquo; Extracurriculars. That means that in the heading on my site, if you click the drop down on parent, then you see Model United Nations.</p>
+<pre><code>[[Languages.en.menu.main]]
   parent = &quot;Extracurriculars&quot;
   name = &quot;Model United Nations&quot;
   URL = &quot;mun&quot;
-  ```
-The code to set up extracurriculars is here: 
-
-```
-weight = 6
+</code></pre><p>The code to set up extracurriculars is here:</p>
+<pre><code>weight = 6
 name = &quot;Extracurriculars&quot;
 hasChildren = true
-```
-The 'hasChildren' field enables it to be a parent. Cute.
+</code></pre><p>The &lsquo;hasChildren&rsquo; field enables it to be a parent. Cute.</p>
+<h1 id="how-to-disable-languages">How to disable languages</h1>
+<p>A lot of Hugo themes are bilingual, which is great if you are, but since I only want to deal with English right now, I added the following to config.toml in the bottom of the first set of default configurations (right near ignoreFiles!)</p>
+<pre><code>disableLanguages = [&quot;fr&quot;] # Note that French was the only other language
+</code></pre><h1 id="connecting-my-google-domain-to-my-netlify-using-dns">Connecting my Google Domain to my Netlify using DNS</h1>
+<p>This step was challenging. Luckily, there were people on the internet to help. In Google Domains, I selected the DNS tab on the sidebar and clicked &lsquo;Use custom name servers&rsquo; on the first block called Name servers. Then I headed over to Netlify and set up a Netlify DNS. It basically gave me four 18-character strings starting in dns and ending in net, which I was able to copy and paste into Google domains. I hit save and it&hellip; worked!? (Immediately in fact!)</p>
+<p>Since I relied heavily on aforementioned &lsquo;people on the internet,&rsquo; I&rsquo;m going to link a couple good ones here, because I don&rsquo;t know if my explanation just now made any sense. Here&rsquo;s what I used:</p>
+<ul>
+<li><a href="https://medium.com/@jacobsowles/how-to-deploy-a-google-domains-site-to-netlify-c62793d8c95e">This Medium article</a> is amazing, with pictures and everything! Thanks Jacob Sowles!</li>
+<li><a href="https://dev.to/lost_semicolon/netlify-and-google-domains-hm3">Dev.to&rsquo;s article</a> which uses fancier- but more accurate- terms and maybe will help if you&rsquo;re stuck on the Medium article.</li>
+<li><a href="https://www.storybench.org/how-to-build-a-website-with-blogdown-in-r/">Here is the Storybench article</a> that is my overall guide to the whole Blogdown Hugo process. Super helpful. Probably should have mentioned it earlier.</li>
+</ul>
+<h1 id="the-favicon">The favicon!</h1>
+<p>What is a favicon? It&rsquo;s that teeeny tiny little logo (I mean tiny- it&rsquo;s only 32x32 pixels) in the tab on your browser. In my opinion it makes SUCH a difference for websites because without it, they always look a little unfinished and unprofessional.</p>
+<p>The favicon was an obsession of mine. I could NOT get it to work. And then I found&hellip;</p>
+<p><a href="https://www.tomfranklin.co.uk/portfolio/favicon/">TOM FRANKLIN.CO!!!!</a></p>
+<p>The ironic part about the whole thing is that Tom Franklin&rsquo;s own site doesn&rsquo;t have a favicon, but maybe it&rsquo;s an aesthetic choice. IDK. Anyways.</p>
+<p>I could restate what he says but honestly once I found that website, it was smooth sailing. Follow what he says. The only thing I would add- once I got to the HTML file, I was confused because it APRPEARED to already include the line he said. When I looked closer, I realized my line said</p>
+<pre><code>&lt;link rel=&quot;icon&quot; href=&quot;{{ &quot;img/favicon.png&quot; | absURL }}&quot; type=&quot;image/x-icon&quot;&gt; # Note the favicon file extension
+</code></pre><p>and not</p>
+<pre><code>&lt;link rel=&quot;icon&quot; href=&quot;{{ &quot;img/favicon.ico&quot; | absURL }}&quot; type=&quot;image/x-icon&quot;&gt;
+</code></pre><p>I also put the favicon.ico file in way more places than he does. I had a copy of favicon.ico in your_blog_name/static/images, one in your_blog_name/public/images, and one in your_blog_name/themes/your_theme_name/example/static/images. Maybe it&rsquo;s overkill. But it works!!</p>
 
-# How to disable languages
-A lot of Hugo themes are bilingual, which is great if you are, but since I only want to deal with English right now, I added the following to config.toml in the bottom of the first set of default configurations (right near ignoreFiles!)
-```
-disableLanguages = [&quot;fr&quot;] #Note that the only other language for Airspace was French.
-```
-</code></pre>
   </div>
 
   <footer>
@@ -805,6 +803,9 @@ disableLanguages = [&quot;fr&quot;] #Note that the only other language for Airsp
 
 
   
+  
+    
+  
 
 
         
@@ -842,6 +843,9 @@ disableLanguages = [&quot;fr&quot;] #Note that the only other language for Airsp
 
 
 
+  
+  
+    
   
 
 
@@ -881,9 +885,6 @@ disableLanguages = [&quot;fr&quot;] #Note that the only other language for Airsp
 
 
   
-  
-    
-  
 
 
         
@@ -891,7 +892,7 @@ disableLanguages = [&quot;fr&quot;] #Note that the only other language for Airsp
         
 
         <a href="https://celestesrblog.netlify.app/blog/notes_to_self/" class="image featured">
-            <img src="https://celestesrblog.netlify.app/img/2020/12/pic03.jpg" alt="">
+            <img src="https://celestesrblog.netlify.app/img//pic03.jpg" alt="">
         </a>
     
 
